@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-hellooo hellooo 
-=======
-hellooo oumayma
->>>>>>> lab-conflicts
+hellooo hellooo actiaaaaa  
